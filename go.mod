@@ -1,4 +1,4 @@
-module weand-server-common
+module github.com/we-and/weand-server-common
 
 go 1.20
 
